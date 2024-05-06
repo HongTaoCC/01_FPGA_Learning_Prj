@@ -1,0 +1,3 @@
+CLK_PLL_clk_wiz.v,verilog,xil_defaultlib,../../../../LED_Blink.gen/sources_1/ip/CLK_PLL/CLK_PLL_clk_wiz.v,incdir="../../../ipstatic"incdir="../../../ipstatic"
+CLK_PLL.v,verilog,xil_defaultlib,../../../../LED_Blink.gen/sources_1/ip/CLK_PLL/CLK_PLL.v,incdir="../../../ipstatic"incdir="../../../ipstatic"
+glbl.v,Verilog,xil_defaultlib,glbl.v

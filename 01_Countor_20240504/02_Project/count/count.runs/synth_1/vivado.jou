@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2023.2 (64-bit)
+# SW Build 4029153 on Fri Oct 13 20:14:34 MDT 2023
+# IP Build 4028589 on Sat Oct 14 00:45:43 MDT 2023
+# SharedData Build 4025554 on Tue Oct 10 17:18:54 MDT 2023
+# Start of session at: Sun May  5 11:27:51 2024
+# Process ID: 21776
+# Current directory: E:/01_CodeLearning/01_FPGA_Verilog_Prj/01_Countor_20240504/02_Project/count/count.runs/synth_1
+# Command line: vivado.exe -log count.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source count.tcl
+# Log file: E:/01_CodeLearning/01_FPGA_Verilog_Prj/01_Countor_20240504/02_Project/count/count.runs/synth_1/count.vds
+# Journal file: E:/01_CodeLearning/01_FPGA_Verilog_Prj/01_Countor_20240504/02_Project/count/count.runs/synth_1\vivado.jou
+# Running On: HongTao, OS: Windows, CPU Frequency: 2208 MHz, CPU Physical cores: 6, Host memory: 25636 MB
+#-----------------------------------------------------------
+source count.tcl -notrace

@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2023.2 (64-bit)
+# SW Build 4029153 on Fri Oct 13 20:14:34 MDT 2023
+# IP Build 4028589 on Sat Oct 14 00:45:43 MDT 2023
+# SharedData Build 4025554 on Tue Oct 10 17:18:54 MDT 2023
+# Start of session at: Sun May  5 23:07:15 2024
+# Process ID: 21180
+# Current directory: E:/01_CodeLearning/01_FPGA_Verilog_Prj/02_LEDBlink_20240505/02_Project/LED_Blink/LED_Blink.runs/synth_1
+# Command line: vivado.exe -log LED_TOP.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source LED_TOP.tcl
+# Log file: E:/01_CodeLearning/01_FPGA_Verilog_Prj/02_LEDBlink_20240505/02_Project/LED_Blink/LED_Blink.runs/synth_1/LED_TOP.vds
+# Journal file: E:/01_CodeLearning/01_FPGA_Verilog_Prj/02_LEDBlink_20240505/02_Project/LED_Blink/LED_Blink.runs/synth_1\vivado.jou
+# Running On: HongTao, OS: Windows, CPU Frequency: 2208 MHz, CPU Physical cores: 6, Host memory: 25636 MB
+#-----------------------------------------------------------
+source LED_TOP.tcl -notrace
